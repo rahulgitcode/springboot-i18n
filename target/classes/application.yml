@@ -1,0 +1,3 @@
+myapp:
+  app-name: Rahul's spring boot application
+  appDescription: ${myapp.app-name} is used to process 837/277 files
